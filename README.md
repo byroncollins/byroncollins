@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi there 👋, I'm Byron
+
+Welcome to my Github Profile! 
+I'm passionate about building useful 
+software , learning new tech, and 
+contributing to open source.
 
 <!--
 **byroncollins/byroncollins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
