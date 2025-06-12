@@ -10,6 +10,8 @@ on:
 
 jobs:
   metrics:
+    permissions:
+      contents: write
     runs-on: ubuntu-latest
     steps:
       - name: Metrics embed
