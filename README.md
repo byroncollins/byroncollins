@@ -1,5 +1,8 @@
 ## Hi there 👋, I'm Byron
 
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/byron-collins-5685b2112)
+
+
 Welcome to my Github Profile! 
 I'm passionate about building useful 
 software, learning new tech, and 
@@ -7,7 +10,7 @@ contributing to open source.
 
 - 🔭 I'm currently working for a startup in South Korea
 - 🌱 I'm currently learning react native
-- 💻 Full Stack Developer with a focus on DevOps
+- 💻 Full Stack Developer with a focus on DevOps and all things Containers
 - 🚀 Building scalable applications and cloud infrastructure
 
 ---
@@ -44,45 +47,5 @@ contributing to open source.
 
 ---
 
+![Metrics](github-metrics.svg)
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats-six-olive-37.vercel.app/api?username=byroncollins&show_icons=true&theme=radical&count_private=true)
-
-<!--
-![Top Languages](https://github-readme-stats-six-olive-37.vercel.app/api/top-langs/?username=byroncollins&layout=compact&theme=radical&langs_count=10)
--->
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=byroncollins&theme=radical)](https://git.io/streak-stats)
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=byroncollins&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-![Profile Views](https://komarev.com/ghpvc/?username=byroncollins&color=blueviolet)
-
--->
----
-## 📫 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/byron-collins-5685b2112/)
-<!--[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat-square&logo=firefox-browser)](https://byroncollins.com)
-
--->
----
-
-_Thanks for visiting! ⭐️_
-
-<!--
-
-**byroncollins/byroncollins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I'm currently working on ...
-- 🌱 I'm currently learning ...
-- 👯 I'm looking to collaborate on ...
-- 🤔 I'm looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
