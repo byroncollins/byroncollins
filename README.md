@@ -10,7 +10,7 @@ contributing to open source.
 
 - 🔭 I'm currently working for a startup in South Korea
 - 🌱 I'm currently learning react native
-- 💻 Full Stack Developer with a focus on DevOps and all things Containers
+- 💻 Software Engineer with a focus on DevOps and all things Containers
 - 🚀 Building scalable applications and cloud infrastructure
 
 ---
