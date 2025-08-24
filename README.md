@@ -9,8 +9,11 @@ software, learning new tech, and
 contributing to open source.
 
 👋 Hi, I’m currently the CTO & Lead Architect at an AI startup in Melbourne, where I focus on designing scalable systems and leading product architecture.
+
 💻 My background is in software engineering with a strong emphasis on DevOps, containers, and cloud-native infrastructure.
+
 🚀 I’m passionate about building reliable, scalable applications and continuously upskilling in emerging technologies to stay ahead of the curve.
+
 ---
 
 ## 🧰 Tech Stack
