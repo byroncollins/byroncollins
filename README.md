@@ -8,11 +8,9 @@ I'm passionate about building useful
 software, learning new tech, and 
 contributing to open source.
 
-- 🔭 I'm currently working for a startup in South Korea
-- 🌱 I'm currently learning react native
-- 💻 Software Engineer with a focus on DevOps and all things Containers
-- 🚀 Building scalable applications and cloud infrastructure
-
+👋 Hi, I’m currently the CTO & Lead Architect at an AI startup in Melbourne, where I focus on designing scalable systems and leading product architecture.
+💻 My background is in software engineering with a strong emphasis on DevOps, containers, and cloud-native infrastructure.
+🚀 I’m passionate about building reliable, scalable applications and continuously upskilling in emerging technologies to stay ahead of the curve.
 ---
 
 ## 🧰 Tech Stack
